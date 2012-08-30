@@ -1,0 +1,139 @@
+/*!
+ * UCollab.net
+ */
+
+body {
+	font-size: 13px;
+	line-height: 1.4em;
+	color: #333333;
+	background: url('../img/diagmonds.png') #f5f5f5;
+	-webkit-font-smoothing: antialiased;
+}
+
+[class*="span"] {
+	background: white;
+}
+
+#body {
+	margin-top: 50px;
+	margin-bottom: 10px;
+	border-top: 10px solid #ccc;
+	border-bottom: 2px solid #ddd;
+}
+
+.personal h1, .personal  h3 {
+	color: #111;
+}
+
+h1, h2, h3, h4 {
+	color: #111;
+}
+
+.light {
+	font-weight: 200;
+}
+
+.personal .span12 .row-fluid .span12 {
+	padding: 5px 15px;
+	margin-bottom: 20px;
+}
+
+.personal p.image, .personal h1.title {
+	text-align: center;
+	margin: 5px auto;
+}
+
+.personal .span12 p img {
+	max-width: 150px;
+}
+
+.personal hr {
+	margin: 10px 0;
+}
+
+.personal .span12 .row-fluid .span3 {
+	padding: 15px;
+}
+
+.personal .span12 .row-fluid .span9 {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.personal ul.icons li {
+	float: left;
+	margin-right: 10px;
+}
+
+.personal a {
+	color: #111;
+}
+
+.personal a:hover {
+	color: #111;
+	text-decoration: none;
+}
+
+.section a {
+	background: #111;
+	color: #fff;
+	padding: 0 3px;
+}
+
+.section a:hover {
+	background: inherit;
+	color: inherit;
+	text-decoration: none;
+}
+
+.section .span12 .row-fluid {
+	padding: 5px 0;
+}
+
+.section .title {
+	font-weight: 100;
+	border-left: 5px #ccc solid;
+	padding-left: 20px;
+	margin-top: 0;
+}
+
+.section:hover .title {
+	border-left: 5px #111 solid;
+}
+
+.section-item {
+	padding: 5px 10px;
+}
+
+.section-item.active {
+	background: #fff;
+}
+
+.section-item.semiactive {
+	background: #eee;
+	color: #787878;
+	display: none;
+}
+
+.section-item.inactive {
+	background: #ddd;
+	color: #ababab;
+	display: none;
+}
+
+.section-item p.date {
+	font-style: italic;
+	margin-bottom: 3px;
+}
+
+.section-item .btn-group {
+	float: right;
+}
+
+footer p, footer a, footer a:hover {
+	color: #eee;
+}
+
+footer a:hover {
+	text-decoration: none;
+}

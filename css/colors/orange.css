@@ -1,0 +1,23 @@
+/*!
+ * Orange Color
+ */
+
+h1, h2, h3, h4 {
+	color: #DF3A01;
+}
+
+.section a {
+	background: #DF3A01;
+}
+
+.section:hover .title {
+	border-left: 5px #DF3A01 solid;
+}
+
+.section-item.semiactive {
+	background: #E3C6BD;
+}
+
+.section-item.inactive {
+	background: #F7DDD4;
+}
