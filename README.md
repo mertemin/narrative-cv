@@ -13,8 +13,8 @@ Example
 [mert.im](http//www.mert.im) -- Live Example
 
 ## Changelog
-v0.2 - Some refinements made on display and ensured responsibility
-v0.1 - NarrativeCV is now ready to be downloaded and used
+* **v0.2** - Some refinements made on display and ensured responsibility
+* **v0.1** - NarrativeCV is now ready to be downloaded and used
 
 ## Technologies Used
 * [base css](http://twitter.github.com/bootstrap/) -- Twitter Bootstrap
