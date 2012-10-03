@@ -1,5 +1,9 @@
 /*!
- * UCollab.net
+ * NarrativeCV v0.2
+ *
+ * The MIT License
+ *
+ * Designed by mertemin
  */
 
 body {
@@ -74,6 +78,10 @@ h1, h2, h3, h4 {
 	text-decoration: none;
 }
 
+/*
+ * SECTION
+ */
+
 .section a {
 	background: #111;
 	color: #fff;
@@ -88,6 +96,7 @@ h1, h2, h3, h4 {
 
 .section .span12 .row-fluid {
 	padding: 5px 0;
+	border-top: 1px #ccc solid;
 }
 
 .section .title {
@@ -130,6 +139,10 @@ h1, h2, h3, h4 {
 	float: right;
 }
 
+/*
+ * FOOTER
+ */
+ 
 footer p, footer a, footer a:hover {
 	color: #eee;
 }
