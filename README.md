@@ -10,8 +10,8 @@ Example
 ```
 
 ## Live Example
-[Demo 1](http://mertemin.github.com/narrative-cv/)
-[Demo 1](http://mertemin.github.com/narrative-cv/index2.html)
+* [Demo 1](http://mertemin.github.com/narrative-cv/)
+* [Demo 2](http://mertemin.github.com/narrative-cv/index2.html)
 
 ## Changelog
 * **v0.2** - Some refinements made on display and ensured responsibility
