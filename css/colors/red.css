@@ -1,0 +1,23 @@
+/*!
+ * Red Color
+ */
+
+h1, h2, h3, h4 {
+	color: #B40431;
+}
+
+.section a {
+	background: #B40431;
+}
+
+.section:hover .title {
+	border-left: 5px #B40431 solid;
+}
+
+.section-item.semiactive {
+	background: #DDB3BD;
+}
+
+.section-item.inactive {
+	background: #F5CDD7;
+}

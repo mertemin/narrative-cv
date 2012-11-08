@@ -1,0 +1,23 @@
+/*!
+ * Blue Color
+ */
+
+h1, h2, h3, h4 {
+	color: #084B8A;
+}
+
+.section a {
+	background: #084B8A;
+}
+
+.section:hover .title {
+	border-left: 5px #084B8A solid;
+}
+
+.section-item.semiactive {
+	background: #D6E7F9;
+}
+
+.section-item.inactive {
+	background: #BFD4E8;
+}
